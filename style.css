@@ -1,0 +1,8 @@
+.card {
+    box-shadow: 0 0 15px orangered; /* Adding a shadow effect */
+  }
+  
+  .card-img {
+    max-width: 100%;
+    height: auto;
+  }
